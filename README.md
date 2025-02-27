@@ -24,8 +24,11 @@ The dataset consists of four CSV files covering different quarters from 2019 to 
 ---
 # Major Highlights of the Visuals:
 •  Visualized bike usage trends across different seasons
+
 •  Compared casual vs. member riders’ behavior
+
 •  Analyzed peak hours and popular ride durations
+
 •  Identified top locations for bike rentals
 
 # Conclusion:
